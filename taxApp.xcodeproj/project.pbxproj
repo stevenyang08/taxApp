@@ -15,6 +15,16 @@
 		7B44DD8B1C3DB0A300B99C0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B44DD8A1C3DB0A300B99C0B /* Assets.xcassets */; };
 		7B44DD8E1C3DB0A300B99C0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B44DD8C1C3DB0A300B99C0B /* LaunchScreen.storyboard */; };
 		7B44DD991C3DB0A400B99C0B /* taxAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B44DD981C3DB0A400B99C0B /* taxAppUITests.m */; };
+		7BC41CD01C3E349A004DCAAA /* gold_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CC61C3E349A004DCAAA /* gold_bg@2x.png */; };
+		7BC41CD11C3E349A004DCAAA /* gold_bg@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CC71C3E349A004DCAAA /* gold_bg@3x.png */; };
+		7BC41CD21C3E349A004DCAAA /* green_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CC81C3E349A004DCAAA /* green_bg@2x.png */; };
+		7BC41CD31C3E349A004DCAAA /* green_bg@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CC91C3E349A004DCAAA /* green_bg@3x.png */; };
+		7BC41CD41C3E349A004DCAAA /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CCA1C3E349A004DCAAA /* icon@2x.png */; };
+		7BC41CD51C3E349A004DCAAA /* icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CCB1C3E349A004DCAAA /* icon@3x.png */; };
+		7BC41CD61C3E349A004DCAAA /* orange_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CCC1C3E349A004DCAAA /* orange_bg@2x.png */; };
+		7BC41CD71C3E349A004DCAAA /* orange_bg@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CCD1C3E349A004DCAAA /* orange_bg@3x.png */; };
+		7BC41CD81C3E349A004DCAAA /* purple_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CCE1C3E349A004DCAAA /* purple_bg@2x.png */; };
+		7BC41CD91C3E349A004DCAAA /* purple_bg@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC41CCF1C3E349A004DCAAA /* purple_bg@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +52,16 @@
 		7B44DD941C3DB0A400B99C0B /* taxAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = taxAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B44DD981C3DB0A400B99C0B /* taxAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = taxAppUITests.m; sourceTree = "<group>"; };
 		7B44DD9A1C3DB0A400B99C0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BC41CC61C3E349A004DCAAA /* gold_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gold_bg@2x.png"; sourceTree = "<group>"; };
+		7BC41CC71C3E349A004DCAAA /* gold_bg@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gold_bg@3x.png"; sourceTree = "<group>"; };
+		7BC41CC81C3E349A004DCAAA /* green_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "green_bg@2x.png"; sourceTree = "<group>"; };
+		7BC41CC91C3E349A004DCAAA /* green_bg@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "green_bg@3x.png"; sourceTree = "<group>"; };
+		7BC41CCA1C3E349A004DCAAA /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		7BC41CCB1C3E349A004DCAAA /* icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@3x.png"; sourceTree = "<group>"; };
+		7BC41CCC1C3E349A004DCAAA /* orange_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange_bg@2x.png"; sourceTree = "<group>"; };
+		7BC41CCD1C3E349A004DCAAA /* orange_bg@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange_bg@3x.png"; sourceTree = "<group>"; };
+		7BC41CCE1C3E349A004DCAAA /* purple_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "purple_bg@2x.png"; sourceTree = "<group>"; };
+		7BC41CCF1C3E349A004DCAAA /* purple_bg@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "purple_bg@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +120,16 @@
 		7B44DD7B1C3DB0A300B99C0B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7BC41CC61C3E349A004DCAAA /* gold_bg@2x.png */,
+				7BC41CC71C3E349A004DCAAA /* gold_bg@3x.png */,
+				7BC41CC81C3E349A004DCAAA /* green_bg@2x.png */,
+				7BC41CC91C3E349A004DCAAA /* green_bg@3x.png */,
+				7BC41CCA1C3E349A004DCAAA /* icon@2x.png */,
+				7BC41CCB1C3E349A004DCAAA /* icon@3x.png */,
+				7BC41CCC1C3E349A004DCAAA /* orange_bg@2x.png */,
+				7BC41CCD1C3E349A004DCAAA /* orange_bg@3x.png */,
+				7BC41CCE1C3E349A004DCAAA /* purple_bg@2x.png */,
+				7BC41CCF1C3E349A004DCAAA /* purple_bg@3x.png */,
 				7B44DD7C1C3DB0A300B99C0B /* main.m */,
 			);
 			name = "Supporting Files";
@@ -196,9 +226,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BC41CD11C3E349A004DCAAA /* gold_bg@3x.png in Resources */,
+				7BC41CD81C3E349A004DCAAA /* purple_bg@2x.png in Resources */,
+				7BC41CD41C3E349A004DCAAA /* icon@2x.png in Resources */,
+				7BC41CD71C3E349A004DCAAA /* orange_bg@3x.png in Resources */,
+				7BC41CD51C3E349A004DCAAA /* icon@3x.png in Resources */,
 				7B44DD8E1C3DB0A300B99C0B /* LaunchScreen.storyboard in Resources */,
+				7BC41CD01C3E349A004DCAAA /* gold_bg@2x.png in Resources */,
+				7BC41CD61C3E349A004DCAAA /* orange_bg@2x.png in Resources */,
+				7BC41CD91C3E349A004DCAAA /* purple_bg@3x.png in Resources */,
 				7B44DD8B1C3DB0A300B99C0B /* Assets.xcassets in Resources */,
 				7B44DD861C3DB0A300B99C0B /* Main.storyboard in Resources */,
+				7BC41CD21C3E349A004DCAAA /* green_bg@2x.png in Resources */,
+				7BC41CD31C3E349A004DCAAA /* green_bg@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -408,6 +448,7 @@
 				7B44DD9F1C3DB0A400B99C0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7B44DDA01C3DB0A400B99C0B /* Build configuration list for PBXNativeTarget "taxAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +457,7 @@
 				7B44DDA21C3DB0A400B99C0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
